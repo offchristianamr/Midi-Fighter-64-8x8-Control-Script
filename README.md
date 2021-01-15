@@ -1,5 +1,5 @@
 # Midi-Fighter-64-8x8-Control-Script
-A modified version of the Midi Fighter 64 control script created by padi04 for launching clips using all 64 buttons.
+A modified version of the Midi Fighter 64 control script, created by padi04 with help from Jademalo, for launching clips using all 64 buttons.
 
 After updating the Midi Fighter 64 control script to work with Ableton Live 11, I decided to further modify it to use an 8x8 matrix in order to fully take advantage of the 64 buttons. This was done by taking that updated version of padi04's script and commenting out as much as I could before the script stopped working. It's not pretty, but it works.
 Some values were changed to use the top row of buttons, but the code was kept as close to the original as possible.
